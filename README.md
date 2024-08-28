@@ -1,5 +1,1 @@
-### Hi there 👋, I'm Javier Riveros
-I'm a Systems Engineer from Colombia 🇨🇴.
-
-- 🔭 I’m currently working as a Software Engineer at [Torre.ai](https://torre.ai).
-- 🌱 I’m currently focused on learning Scala and Nuxt.js.
+![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif?cid=790b7611xku4zknggwf4ja3lnoyquzvosynu70wq5mqsy3wg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
